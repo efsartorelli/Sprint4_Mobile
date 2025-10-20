@@ -6,7 +6,7 @@ Aplicativo mobile para **gestão de eventos de acesso** (pessoa, status, primeir
 
 ---
 
-## 👥 Integrantes (preencher)
+## 👥 Integrantes
 - NICOLAS BONI(R551965)
 - ENZO SARTORELLI(RM94618)
 - EDUARDO NISTAL(RM94524)
