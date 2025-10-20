@@ -46,15 +46,15 @@ Aplicativo mobile para **gestão de eventos de acesso** (pessoa, status, primeir
 ---
 
 ## ▶️ Como Rodar
-# instalar deps
+**instalar deps**
 npm i
 npx expo-doctor --fix
 
-# desenvolvimento com Expo Go (online)
+**desenvolvimento com Expo Go (online)**
 npx expo start -c
-# pressione "a" para abrir no Android
+**pressione "a" para abrir no Android**
 
-# (alternativa se o Expo Go não abrir) Dev Client:
+**(alternativa se o Expo Go não abrir) Dev Client:**
 npx expo run:android
 npx expo start --dev-client -c
 
